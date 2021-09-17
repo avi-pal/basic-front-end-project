@@ -1,0 +1,29 @@
+Please take a note of the details below these are needed to access your account.
+Your account is now active.
+
+Control panel username:	b31_28747142
+Control panel password:	**********
+Control panel URL:	cpanel.byethost31.com
+MySQL username	b31_28747142
+MySQL password:	**********
+MySQL hostname:	sql201.byethost31.com
+FTP username:	b31_28747142
+FTP password:	**********
+FTP host name:	ftp.byethost31.com
+Your Website URL:	http://avirup.byethost31.com
+ 	 
+Thank you for choosing us to host your websites!
+
+byethost31.com hosting services 2021
+
+
+Cpanel Username: b31_28747142
+Cpanel Password: avirupavirup
+Your URL: http://avirup.byethost31.com or http://www.avirup.byethost31.com
+FTP Server : ftpupload.net
+FTP Login : b31_28747142
+FTP Password : avirupavirup
+MySQL Database Name: MUST CREATE IN CPANEL
+MySQL Username : b31_28747142
+MySQL Password : avirupavirup
+MySQL Server: SEE THE CPANEL
